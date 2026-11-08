@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+/train/
+/val/
+/test/
+/test_data/
+/test_data_baru/
+/model_cadangan/
+*.zip
