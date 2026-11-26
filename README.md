@@ -111,6 +111,6 @@ Bila keyakinan prediksi di bawah 0,80, sistem menandai hasil sebagai kurang jela
 | Error CORS di browser | backend tidak terjangkau dari alamat frontend | pastikan backend berjalan dan alamatnya benar |
 
 ## Tim
-MUHAMMAD ABI RAFFI
-MUHAMMAD FAATHIR
-NOVA AIZA ILHAM
+- Muhammad Abi Raffi
+- Muhammad Faathir
+- Nova Aiza Ilham
