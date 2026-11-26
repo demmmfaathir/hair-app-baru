@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 import 'package:http_parser/http_parser.dart';
 import 'package:image_picker/image_picker.dart';
 
-const String apiBase = 'http://127.0.0.1:8001';
+const String apiBase = String.fromEnvironment('API_URL', defaultValue: 'http://127.0.0.1:8001');
 const String kAppName = 'SiebenKI'; // ganti sesuka kamu
 
 const kTeal = Color(0xFF1F6B66);
